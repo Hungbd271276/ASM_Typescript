@@ -1,0 +1,43 @@
+.hidden-poke{
+    border-radius: 15px;
+}
+
+.poke{
+    height: 155px;
+}
+.point{
+    height: 50px;
+    margin-top: 200px;
+    border: solid black 1px;
+    text-align: center;
+    padding-top: 10px;
+    font-size: larger;
+    color: red;
+    font-weight: bold;
+}
+
+.flashcard{
+    margin-bottom: 10px;
+}
+
+.front{
+    border-radius: 15px;
+}
+
+.back{
+    border-radius: 15px;
+    background-color: whitesmoke;
+    
+}
+#form-submit {
+    background-color: #F8F8F8;
+    box-shadow: 2px 2px 2px rgb(0 0 0 / 20%);
+    height: 300px;
+    width: 450px;
+    margin-top: 34%;
+    border-radius: 30px;
+}
+
+
+
+
